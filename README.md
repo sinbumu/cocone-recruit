@@ -1,4 +1,4 @@
-# AI로 정말 이거저거 해보려고 했습니다!
+# AI를 개발의 중심에 두고 해본 것들
 
 신범우 (Shin, Beom-Woo)  
 010-8216-3444 · [sinbumu@gmail.com](mailto:sinbumu@gmail.com)
